@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Project BloodBond**
 
-- 🌱 I’m currently learning ** About databases and technologies and DSA**
+- 🌱 I’m currently learning ** About databases visualization and DSA**
 
 - 📫 How to reach me **shobhitsrivastava47255@gmail.com**
 
